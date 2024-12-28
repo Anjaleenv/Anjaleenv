@@ -1,6 +1,6 @@
-<!-- Animated Header Banner -->
+<!-- Very Attractive Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Anjali%20NV&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&text=Welcome%20to%20Anjali's%20Space!&fontSize=70&color=gradient&customColorList=10,20,30,40,50&animation=twinkling&fontColor=ffffff&stroke=000000&strokeWidth=2"/>
 </div>
 
 <!-- Dynamic Hero Section -->
