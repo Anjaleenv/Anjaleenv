@@ -1,6 +1,90 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Anjali%20NV&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
+<!-- Enhanced Animated Header Banner -->
+<style>
+  body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    overflow: hidden;
+  }
+
+  .header-banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('https://source.unsplash.com/1920x1080/?abstract,technology') no-repeat center center/cover;
+    text-align: center;
+  }
+
+  .header-banner::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+
+  .header-content {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+    animation: fadeIn 2s ease-in-out;
+  }
+
+  .header-content h1 {
+    font-size: 4rem;
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+
+  .header-content p {
+    font-size: 1.5rem;
+    margin: 15px 0;
+  }
+
+  .header-content a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    color: #fff;
+    background: #ff6f61;
+    border: none;
+    border-radius: 25px;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(255, 111, 97, 0.5);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .header-content a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 25px rgba(255, 111, 97, 0.7);
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+
+<div class="header-banner">
+  <div class="header-content">
+    <h1>Welcome to Anjali's Space</h1>
+    <p>Design Your Future with Creativity</p>
+    <a href="#">Get Started</a>
+  </div>
 </div>
 
 
