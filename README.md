@@ -146,9 +146,14 @@ class SoftwareArchitect {
   <a href="https://anjaleenv.github.io/Starbucks-clone/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Starbucks-clone&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
-
+ <!--project 3-->
    <a href="https://anjaleenv.github.io/Instagram---clone/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Instagram---clone&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+  </a>
+
+<!--project 4-->
+  <a href="https://anjaleenv.github.io/Admin-User-management/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Admin-User-management&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
 </div>
 
