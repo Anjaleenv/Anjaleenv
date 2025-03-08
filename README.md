@@ -157,7 +157,7 @@ class SoftwareArchitect {
   </a>
 
   <!--project 5-->
-  <a href="https://github.com/Anjaleenv/Malala_Yousafzai">
+  <a href="https://anjaleenv.github.io/Malala_Yousafzai">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Malala_Yousafzai&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
 </div>
