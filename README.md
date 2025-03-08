@@ -155,6 +155,11 @@ class SoftwareArchitect {
   <a href="https://github.com/Anjaleenv/Admin-User-management">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Admin-User-management&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
+
+  <!--project 5-->
+  <a href="https://github.com/Anjaleenv/Malala_Yousafzai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Admin-User-management&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+  </a>
 </div>
 
 
