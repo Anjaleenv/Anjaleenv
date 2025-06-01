@@ -1,4 +1,4 @@
-<!-- Animated Header Banner -->
++<!-- Animated Header Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Anjali%20NV&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
 </div>
@@ -162,6 +162,11 @@ class SoftwareArchitect {
   </a>
 </div>
 
+  <!--project 6-->
+  <a href="https://anjaleenv.github.io/Calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Calculator&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+  </a>
+</div>
 
 <br>
 <br>
