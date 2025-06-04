@@ -166,14 +166,14 @@ class SoftwareArchitect {
   <a href="https://anjaleenv.github.io/Calculator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Calculator&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
-</div>
 
+<div>
  <!--project 7-->
   <a href="https://anjaleenv.github.io/Weather-App">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Weather-App&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
 </div>
-
+</div>
 <br>
 <br>
 <br>
