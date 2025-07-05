@@ -135,7 +135,7 @@ class SoftwareArchitect {
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
   Projects</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   
   <!-- Project 1 -->
   <a href="https://anjaleenv.github.io/teslaRsponsive/">
@@ -172,6 +172,7 @@ class SoftwareArchitect {
   <a href="https://anjaleenv.github.io/Weather-App">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Weather-App&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
   </a>
+
 
  <!--project 8-->
   <a href="https://anjaleenv.github.io/Notetaker">
