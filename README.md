@@ -180,6 +180,13 @@ class SoftwareArchitect {
   </a>
   
 </div>
+<div>
+ <!--project 9-->
+  <a href="https://anjaleenv.github.io/Gallery/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaleenv&repo=Gallery&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+  </a>
+  
+</div>
 <br>
 <br>
 <br>
