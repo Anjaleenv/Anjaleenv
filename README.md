@@ -489,6 +489,3 @@ class SoftwareArchitect {
 <!-- Dynamic Footer Banner -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=fadeIn&stroke=fff&strokeWidth=2"/>
-
-
-
