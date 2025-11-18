@@ -246,3 +246,12 @@ class SoftwareArchitect {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=fadeIn&stroke=fff&strokeWidth=2"/>
 
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<a href="[LINK TO YOUR DJANGO/REACT PROJECT REPO]"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Damina%26repo%3D[YOUR-PROJECT-REPO-NAME-1]&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=45%2C0a0a0a%2C1c1c1c&title_color=06B6D4&icon_color=06B6D4" /> </a>
+
+<a href="[LINK TO YOUR PYTHON/API/DATA PROJECT REPO]"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Damina%26repo%3D[YOUR-PROJECT-REPO-NAME-2]&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=45%2C0a0a0a%2C1c1c1c&title_color=06B6D4&icon_color=06B6D4" /> </a>
+
+<a href="[LINK TO YOUR REACT/TAILWIND PROJECT REPO]"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Damina%26repo%3D[YOUR-PROJECT-REPO-NAME-3]&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=45%2C0a0a0a%2C1c1c1c&title_color=06B6D4&icon_color=06B6D4" /> </a>
+
+</div>
