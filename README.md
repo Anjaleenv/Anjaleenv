@@ -1,77 +1,128 @@
-<!-- HEADER BANNER / GREETING -->
+<!-- TOP BANNER -->
 <div align="center">
-  <h1>Hi 👋, I'm Anjali NV</h1>
-  <h3>Full-Stack Software Developer & Technical Intern</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Hi%20there,%20I'm%20Anjali%20NV%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <p align="center">
-    Building web & mobile applications with React, Node.js, TypeScript, and modern backend architectures.
+    <b>Full-Stack Software Developer & Technical Intern</b>
   </p>
 
-  <!-- SOCIAL BADGES -->
-  <a href="mailto:anjaleenvinod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anjaleenvinod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/Anjaleenv">
-    <img src="https://img.shields.io/badge/GitHub-Anjaleenv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:anjaleenvinod@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
+
+<br />
+
+<!-- ABOUT ME SECTION -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>💻 Technical Intern at <b>Bezgenesis Tech Solutions</b></li>
+        <li>🎓 Computer Science & Engineering Undergrad (2023 - 2027)</li>
+        <li>🎯 Building full-stack web platforms & mobile backend systems</li>
+        <li>🎨 Passionate about clean UI/UX, database design, and OCR intelligence</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Core Focus</h3>
+      <ul>
+        <li><b>Frontend:</b> React, TypeScript, Tailwind CSS</li>
+        <li><b>Backend:</b> Node.js, Express, FastAPI, REST APIs</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
+        <li><b>Mobile:</b> Flutter</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)` `TypeScript` `Python` |
+| **Frontend** | `React` `Tailwind CSS` `HTML5/CSS3` |
+| **Backend & APIs** | `Node.js` `Express.js` `FastAPI` `REST Architecture` |
+| **Databases** | `PostgreSQL` `MongoDB` |
+| **Mobile & Cross-Platform** | `Flutter` |
+| **Tools & Environment** | `Git` `GitHub` `Postman` `Cursor` `VS Code` |
+
 </div>
 
 <br />
 
 ---
 
-## 🚀 About Me
+### 📂 Featured Technical Work
 
-- 💻 **Currently:** Software Development Intern at **Bezgenesis Tech Solution** (Bangalore).
-- 🛠️ **Focus Areas:** Full-Stack Web Applications, Mobile App Architectures, UI/UX Design, and Document Intelligence / OCR Pipelines.
-- 🎓 **Education:** Pursuing a Bachelor's Degree in Computer Science / Engineering.
-- 📬 **Get in touch:** `anjaleenvinod@gmail.com`
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 Saloon Flow</h4>
+      <p>Backend migrations, API endpoints, and database architecture for a salon operations management suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 Bezgenesis OCR Pipeline</h4>
+      <p>High-accuracy document intelligence pipeline to parse layout structures from handwritten/scanned materials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 Typing Tester App</h4>
+      <p>Interactive web application with real-time speed/accuracy metrics and custom styling themes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 Bezgenesis Tutor</h4>
+      <p>Customized educational platform and presentation architecture designed for interactive learning modules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech & Tools
-
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-### Databases & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-## 🌟 Highlighted Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Saloon Flow** | Backend integration & database architecture for a salon management suite. | Node.js, PostgreSQL, Flutter |
-| **Bezgenesis OCR** | Handwritten document intelligence & structure extraction pipeline. | FastAPI, Python, OCR Frameworks |
-| **Typing Tester** | Real-time interactive typing analysis tool with custom analytics. | React, TypeScript, Tailwind |
-
----
-
-## 📊 GitHub Stats
+### 📊 Performance & Commit Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjaleenv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anjali's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Anjaleenv&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjaleenv&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="Anjali's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Anjaleenv&layout=compact&theme=dracula&hide_border=true&hide=html,css" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaleenv&theme=dracula&hide_border=true" width="95%" alt="GitHub Streak" />
 </div>
 
 <br />
 
+---
+
 <div align="center">
-  <sub>✨ Designed & Maintained by Anjali NV</sub>
+  <sub>💡 <i>"Building software with clean code and intuitive design."</i></sub>
 </div>
