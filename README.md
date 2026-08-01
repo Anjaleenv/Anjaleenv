@@ -1,15 +1,14 @@
-<!-- HEADER BANNER WITH ANIMATIONS -->
+<!-- TOP BANNER WITH DYNAMIC TYPING -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=250&section=header&text=Hi%20there,%20I'm%20Anjali%20NV%20✨&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,28,54&height=220&section=header&text=Anjali%20NV%20✨&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
 
-  <!-- DYNAMIC TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&width=500&lines=Full-Stack+Software+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&width=600&lines=Full-Stack+Software+Developer;Building+Web+%26+Mobile+Applications;React+%7C+Node.js+%7C+TypeScript+%7C+Flutter" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- BADGES WITH NEON HOVER STYLE -->
+  <!-- CONTACT & SOCIAL BUTTONS -->
   <p align="center">
     <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,33 +16,40 @@
     <a href="mailto:anjaleenvinod@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://github.com/Anjaleenv">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
   </p>
 </div>
 
-<!-- ANIMATED WAVE DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br />
 
-<!-- ABOUT ME SECTION -->
+<!-- PORTFOLIO HEADER / ABOUT ME WITH YOUR PHOTO -->
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>💻 Software Development Intern at <b>Bezgenesis Tech Solutions</b></li>
-        <li>🎓 Computer Science & Engineering Undergrad (2023 – 2027)</li>
-        <li>🎯 Engineering full-stack web platforms & backend microservices</li>
-        <li>🎨 Deep passion for clean UI/UX, system architecture & document AI</li>
-      </ul>
+    <td width="35%" align="center" valign="middle">
+      <!-- YOUR PROFILE IMAGE -->
+      <a href="https://github.com/Anjaleenv">
+        <img src="https://github.com/Anjaleenv.png" width="180" style="border-radius: 50%; border: 3px solid #00F2FE;" alt="Anjali NV" />
+      </a>
+      <br /><br />
+      <b>Anjali NV</b>
+      <br />
+      <sub>Bangalore, India</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Tech Focus</h3>
+    <td width="65%" valign="top">
+      <h3>👋 About Me</h3>
+      <p>
+        I am a <b>Full-Stack Software Developer</b> and Technical Intern at <b>Bezgenesis Tech Solutions</b>. I specialize in building responsive web applications, backend APIs, and mobile systems.
+      </p>
       <ul>
-        <li><b>Frontend:</b> React, TypeScript, Tailwind CSS</li>
-        <li><b>Backend:</b> Node.js, Express, FastAPI, REST APIs</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
-        <li><b>Mobile:</b> Flutter</li>
+        <li>💻 <b>Current Role:</b> Software Development Intern</li>
+        <li>🎓 <b>Education:</b> Computer Science & Engineering Undergrad (2023 – 2027)</li>
+        <li>🎨 <b>Passions:</b> UI/UX Design, Clean Architecture & Document Intelligence</li>
+        <li>📫 <b>Contact:</b> <code>anjaleenvinod@gmail.com</code></li>
       </ul>
     </td>
   </tr>
@@ -51,8 +57,8 @@
 
 <br />
 
-<!-- TECH STACK SHOWCASE -->
-<h2 align="center">🛠️ Tech & Tooling Suite</h2>
+<!-- TECH & TOOLING SUITE -->
+<h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,14 +68,14 @@
 
 <br />
 
-<!-- FEATURED PROJECTS TABLE -->
-<h2 align="center">📂 Featured Projects</h2>
+<!-- FEATURED PROJECTS / PORTFOLIO SHOWCASE -->
+<h2 align="center">💻 Portfolio Projects</h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>💈 Saloon Flow</h3>
-      <p>Backend migrations, API endpoints, and database architecture for salon workflow operations.</p>
+      <p>Backend API migrations, PostgreSQL database schema optimizations, and workflow pipelines for salon management.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -78,7 +84,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📄 Bezgenesis OCR</h3>
-      <p>Document intelligence pipeline parsing complex structured layout formats from handwritten scans.</p>
+      <p>Document intelligence suite designed to extract layout structures and text data from handwritten scans.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -88,7 +94,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Typing Tester</h3>
-      <p>Interactive speed-typing suite with real-time accuracy scoring and custom dashboard UI.</p>
+      <p>Interactive speed-typing application featuring real-time accuracy scoring, countdowns, and custom styling.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -96,7 +102,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Bezgenesis Tutor</h3>
-      <p>Tailored educational presentation framework and interactive learning platform modules.</p>
+      <p>Customized educational presentation platform featuring interactive learning modules and modular UI components.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -107,8 +113,8 @@
 
 <br />
 
-<!-- ANIMATED STATS CARDS -->
-<h2 align="center">📊 Commit & Analytics Overview</h2>
+<!-- ANIMATED STATS & ANALYTICS -->
+<h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaleenv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -123,7 +129,7 @@
 
 <br />
 
-<!-- FOOTER ANIMATION -->
+<!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,28,54&height=100&section=footer" width="100%" />
 </div>
